@@ -10,13 +10,9 @@
 - :seedling: Обязательно вернусь в Школу 21 и поступлю на основное обучение.
 - :zap: Хочу освоить новую профессию и найти работу.
 
-### Как связаться со мной:
-[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f111zzz)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
-
 ---
 
-### Социальные сети:
+### Как связаться со мной:
 <div id="badges">
 <a href="https://www.linkedin.com/in/sergei-sova" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn"/>
@@ -27,7 +23,7 @@
 <a href="https://vk.com/ser.sova" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
 </a>
-  <a href="sergei.sova07@mail.ru" target="_blank">
+  <a href="mailto:sergei.sova07@mail.ru" target="_blank">
   <img src="https://images.icon-icons.com/1154/PNG/512/1486564396-mail_81524.png" width="40" height="40" alt="Mail"/>
 </a>
 </div>
@@ -50,18 +46,3 @@
 | МТИ/Разработка и тестирование программного обеспечения     | 09/2025 - н.в.  |
 | КПК МИРЭА/Информационные системы и программирование        | 09/2020 - 06/2024  |
 | stepik.org/Введение в базы данных                          | 2021  |
-
----
-
-### О GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="GitHub streak stats" />
-    </td>
-    <td>
-    <img height="195px" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
