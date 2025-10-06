@@ -18,7 +18,7 @@
 
 ### Социальные сети:
 <div id="badges">
-<a href="https://www.linkedin.com/in/ваш-профиль/" target="_blank">
+<a href="https://www.linkedin.com/in/sergei-sova" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/SergeiSova" target="_blank">
@@ -26,6 +26,9 @@
 </a>
 <a href="https://vk.com/ser.sova" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+</a>
+  <a href="sergei.sova07@mail.ru" target="_blank">
+  <img src="https://images.icon-icons.com/1154/PNG/512/1486564396-mail_81524.png" width="40" height="40" alt="Mail"/>
 </a>
 </div>
 
