@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, Меня зовут Сергей</h1>
+<h1 align="center">Привет 👋 Меня зовут Сергей</h1>
 
 <h2 align="center">Я начинающий Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> </h2>
 
